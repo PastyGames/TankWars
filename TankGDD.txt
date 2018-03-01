@@ -1,0 +1,18 @@
+Concept
+A 1v1 Tank Shooting game, Player vs. Ai. Objective of the game is to hit
+opponent enough to cause their tank to destroy(die). Once one tank is
+destroyed the game will end.
+Possibly create more enemies on level progression!
+
+Rules
+Player and Ai have a set amount of health pool
+Player and AI cant drive out of the map
+Shooting of tank should decrease health
+Game should end once one loses all health
+
+Sound
+A sound should play when the shooting happens
+
+Effects
+Gun explosing effect on opposite tank
+smoke coming from the shot
